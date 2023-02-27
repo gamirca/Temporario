@@ -1,0 +1,20 @@
+### Requisitos Funcionais
+
+| ID     | Descrição do Requisito                                                                                            | Prioridade |
+|--------|-------------------------------------------------------------------------------------------------------------------|------------|
+| RF-001 | A aplicação deve permitir ao usuário buscar uma obra específica.                                                  | ALTA       |
+| RF-002 | A aplicação deve permitir ao usuário .                                                     | ALTA       |
+| RF-003 | A aplicação deve permitir ao cliente informar a modalidade de crédito desejada para a escolha das melhores taxas. | ALTA       |
+| RF-004 | A aplicação deve permitir ao usuário informar seu score de crédito (SERASA, BoaVista, etc.).                      | ALTA       |
+| RF-005 | A aplicação deve apresentar uma maneira simples para a realizar a demanda e aprovação do serviço.                 | ALTA       |
+| RF-006 | A aplicação deve ter a opção de utilizar a modalidade _pessoa fisica_ ou _pessoa juridica_.                       | ALTA       |
+| RF-007 | A aplicação deve permitir ao demandante de crédito visualizar o valor das parcelas, da amortização e dos juros.   | MÉDIA      |
+
+### Requisitos não Funcionais
+
+| ID      | Descrição do Requisito                                                                           | Prioridade |
+|---------|--------------------------------------------------------------------------------------------------|------------|
+| RNF-001 | A aplicação deverá ser de fácil leitura e entendimento.                                          | MÉDIA      |
+| RNF-002 | A aplicação deverá ser publicado na internet.                                                    | MÉDIA      |
+| RNF-003 | A aplicação deverá ser responsiva e poderá ser acessada em diversos dispositivos e equipamentos. | MÉDIA      |
+| RNF-004 | A aplicação deverá ser compatível com diversos navegadores                                       | MÉDIA      |
