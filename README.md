@@ -8,7 +8,7 @@ Projeto: Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio
 
 O projeto visa a criação de um site de acesso e publicações de livros, especificamente de domínio público.
 
-# Integrantes:
+# Integrantes
 
 - Carlos Eduardo Favilla Lobo
 - Gabriel Vinícius Silveira
@@ -17,3 +17,14 @@ O projeto visa a criação de um site de acesso e publicações de livros, espec
 - Matheus Pereira Dionisio
 - Nathalia
 - Thamara Machado Rocha
+
+
+# Orientador
+
+- Vitor Mangaravite
+
+# Instruções de utilização
+
+
+***
+
